@@ -766,7 +766,11 @@ main {
 
 .clients-item img:hover { filter: grayscale(0); }
 
+.dav{
+    width: 55%;
+    justify-self: center;
 
+}
 
 
 
